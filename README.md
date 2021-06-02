@@ -2,8 +2,8 @@
 
 <br />
 
-Hi, I'm Prasad , an undergrad student majoring in CS
-My recent interests are UI/UX design and web development. I'm frequently learning new technologies to improve my skills
+### Hi, I'm Prasad , an undergrad student majoring in CS
+### My recent interests are UI/UX design and web development. I'm frequently learning new technologies to improve my skills
 
 
 
