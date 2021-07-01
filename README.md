@@ -15,6 +15,7 @@
 <code><img height="20" src="./img/html.png"></code>
 <code><img height="20" src="./img/css.png"></code>
 <code><img height="20" src="./img/git.png"></code>
+<code><img height="20" src="./img/bootstrap.jpg"></code>
 
 
 
