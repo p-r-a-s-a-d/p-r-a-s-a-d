@@ -3,7 +3,7 @@
 
  Hi, I'm Prasad , an undergrad student majoring in CS <br>
 <br>
- My recent interests are UI/UX design and web development. I'm frequently learning new technologies to improve my skills
+ My recent interests are UI/UX design and front end web development. I'm frequently learning new technologies to improve my skills
 
 
 <img align="center" alt="GIF" src="./img/code.gif" width="500" height="320" />
